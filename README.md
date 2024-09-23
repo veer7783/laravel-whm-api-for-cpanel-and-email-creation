@@ -5,7 +5,7 @@ This project is designed to automate the creation of cPanel accounts and email a
 ## Features
 
 - Create cPanel accounts programmatically.
-- Add multiple email accounts under a single domain.
+- Add multiple email accounts under a single domain or multiple domains .
 - Strong password generation for both cPanel and email accounts.
 - Log each action and response for easy debugging and tracking.
 
