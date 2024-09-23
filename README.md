@@ -45,12 +45,11 @@ API Request Example
 Endpoint:
 
 http
-Copy code
 POST /api/create-cpanel-account
 Request Body:
 
 json
-Copy code
+
 {
     "domains": [
         {
@@ -76,7 +75,7 @@ Response Example
 The API will return a JSON response with the results of the operation, indicating whether the account and email creation was successful.
 
 json
-Copy code
+
 {
     "example.com": {
         "status": "success",
